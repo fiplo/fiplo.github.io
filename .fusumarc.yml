@@ -1,5 +1,5 @@
 meta:
-  url: 
+  url:
 slide:
   ui:
     sidebar: true
@@ -9,4 +9,4 @@ slide:
   code:
     # https://prismjs.com/
     plugins: []
-    theme: tomorrow # coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight
+    theme: default # coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight
