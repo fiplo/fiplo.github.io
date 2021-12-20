@@ -11,7 +11,7 @@
 
 <!-- block-start: column -->
     Paulius Ratkevičius 
-    Viktoras Dechier
+    Viktoras Decthiar
 <!-- block-end -->
 
 <!-- block-end -->
