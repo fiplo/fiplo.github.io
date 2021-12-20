@@ -9,4 +9,4 @@ slide:
   code:
     # https://prismjs.com/
     plugins: []
-    theme: tommorow # coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight
+    theme: tomorrow # coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight
